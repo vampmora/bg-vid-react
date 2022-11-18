@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cdb23fab.css",
+    "main.js": "/static/js/main.783fa449.js",
+    "static/media/Waterfall.mp4": "/static/media/Waterfall.7c23a033ca5ccacd535d.mp4",
+    "index.html": "/index.html",
+    "main.cdb23fab.css.map": "/static/css/main.cdb23fab.css.map",
+    "main.783fa449.js.map": "/static/js/main.783fa449.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb23fab.css",
+    "static/js/main.783fa449.js"
+  ]
+}
